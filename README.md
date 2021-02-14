@@ -1,6 +1,6 @@
-```sh
-H!👋 I am Raju KH.
 
+H!👋 I'm **Raju KH.**
+```sh
                 🚀 UI/UX designer | Front-end Developer | Freelancer
 
 • 🌎 Website           raju.cf
