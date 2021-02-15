@@ -1,7 +1,7 @@
 
 H!👋 I'm **Raju KH.**
 ```sh
-                🚀 UI/UX designer | Front-end Developer | Freelancer
+ 🚀 UI/UX designer | Front-end Developer | Freelancer
 
 • 🌎 Website           raju.cf
 • 📬 Reach me          hello@raju.cf
