@@ -8,3 +8,5 @@ H!👋 I'm **Raju.**
 • 🐦 Twitter           @iamrajukh
 • 📷 Instagram         @iamrajukh
 ```
+![Alt Text](https://github.com/iamrajukh/iamrajukh/blob/main/assets/tenor.gif)
+
