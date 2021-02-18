@@ -1,5 +1,5 @@
 
-H!👋 I'm **Raju.**
+<img src="https://github.com/iamrajukh/iamrajukh/blob/main/assets/tenor.gif" width="80" height="80" style="border-radius:50%"/> H!👋 I'm **Raju.**
 ```sh
 🚀 UI/UX designer | Front-end Developer | Freelancer
 
@@ -8,5 +8,3 @@ H!👋 I'm **Raju.**
 • 🐦 Twitter           @iamrajukh
 • 📷 Instagram         @iamrajukh
 ```
-
-<img src="https://github.com/iamrajukh/iamrajukh/blob/main/assets/tenor.gif" width="80" height="80"/>
