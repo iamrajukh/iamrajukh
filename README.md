@@ -10,5 +10,3 @@ H!👋 I'm **Raju.**
 ```
 
 <img src="https://github.com/iamrajukh/iamrajukh/blob/main/assets/tenor.gif" width="80" height="80"/>
-![Alt Text](https://github.com/iamrajukh/iamrajukh/blob/main/assets/tenor.gif width="80" height="80")
-
