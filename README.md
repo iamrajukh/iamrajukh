@@ -3,8 +3,8 @@
 ```sh
 🚀 UI/UX designer | Front-end Developer | Freelancer
 
-• 🌎 Website           raju.cf
-• 📬 Reach me          hello@raju.cf
-• 🐦 Twitter           @iamrajukh
+• 🌎 Website           iamraju.in
+• 📬 Reach me          hello@iamraju.in
+• 🐦 Twitter           @iam_rajukh
 • 📷 Instagram         @iamrajukh
 ```
